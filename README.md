@@ -1,2 +1,3 @@
-# my-website-test
-Testing a webpage with gh-pages
+# Maddie's Awesome Website
+
+Look at all my cool data analysis projects 
